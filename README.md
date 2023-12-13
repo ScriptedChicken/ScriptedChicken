@@ -12,6 +12,8 @@ https://github.com/ScriptedChicken/Return-QGIS-Algorithm
 - Snapper Mapper - A project to use the snapper topup API to expose travel information.
 https://github.com/ScriptedChicken/SnapperMapper/tree/main
 
+I also do freelancing from time-to-time. A range of current offerings of services can be found here: https://scriptedchicken.github.io/
+
 <!---
 ScriptedChicken/ScriptedChicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
